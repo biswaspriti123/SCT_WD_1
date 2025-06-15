@@ -24,3 +24,40 @@ https://biswaspriti123.github.io/SCT_WD_1/
 ✅ Footer with contact/social links and useful information
 
 
+
+🛠️ Technologies and Tools Used
+Tool / Language	Purpose
+HTML5	To create the structure of the landing page
+CSS3	For styling and layout of the web page
+Google Fonts	For attractive and readable text styles
+Media Queries	To make the site responsive on different screen sizes
+VS Code	Code editor used for development
+Git & GitHub	Version control and website hosting via GitHub Pages
+
+
+📱 Responsiveness Details
+The page uses CSS media queries to ensure smooth responsiveness.
+It adapts layout and font sizes depending on device type:
+
+Mobile: stacked layout, readable text, rescaled images
+
+Tablet: balanced layout and spacing
+
+Desktop: full-width banners and multi-column sections
+
+
+While building this project, I learned how to:
+
+Design a landing page layout specific to an industry (food delivery)
+
+Use responsive design principles to ensure device compatibility
+
+Use modern fonts, spacing, and sections to enhance user experience
+
+Improve my HTML/CSS structuring and styling skills
+
+Deploy a working website using GitHub Pages
+
+
+
+
