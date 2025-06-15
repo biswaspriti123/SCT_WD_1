@@ -8,7 +8,7 @@ The landing page includes key sections like a welcoming hero banner, featured di
 
 
 🔗 Live Demo
-https://https://github.com/biswaspriti123/SCT_WD_1/
+https://github.com/biswaspriti123/SCT_WD_1/
 
 🌟 Features
 ✅ Fully responsive layout for mobile, tablet, and desktop
